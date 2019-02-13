@@ -1,0 +1,55 @@
+16/03/2017 0:00:00-La venta :14965 ha sido enviada correctamente
+16/03/2017 0:00:00-La habitación 456C su estado NO ES ocupado.
+No existe una ultima venta.
+No existe una ultima venta.
+No existe una ultima venta.
+No existe una ultima venta.
+No existe una ultima venta.
+17/03/2017 0:00:00-La venta 1 ha sido enviada correctamente
+20/03/2017-La venta 2 ha sido enviada correctamente
+20/03/2017-La venta 3 ha sido enviada correctamente
+20/03/2017-La venta 72646 ha sido enviada correctamente
+20/03/2017-La venta 72646 ha sido enviada correctamente
+20/03/2017-ERROR la venta 72646 NO ha sido enviada correctamente
+20/03/2017-ERROR la venta 72646 NO ha sido enviada correctamente
+20/03/2017-ERROR la venta 72646 NO ha sido enviada correctamente
+20/03/2017-ERROR la venta 72646 NO ha sido enviada correctamente
+20/03/2017-ERROR la venta 72645 NO ha sido enviada correctamente
+20/03/2017-ERROR la venta 72646 NO ha sido enviada correctamente
+20/03/2017-ERROR la venta 72646 NO ha sido enviada correctamente
+20/03/2017-La venta 72646 ha sido enviada correctamente
+20/03/2017-ERROR la venta 72646 NO ha sido enviada correctamente
+20/03/2017-La venta 72646 ha sido enviada correctamente
+20/03/2017-La venta 72646 ha sido enviada correctamente
+20/03/2017-La venta 72646 ha sido enviada correctamente
+20/03/2017-La venta 72646 ha sido enviada correctamente
+21/03/2017 0:00:00-La venta 72647 ha sido enviada correctamente
+21/03/2017 0:00:00-ERROR la venta 72649 NO ha sido enviada correctamente
+21/03/2017 0:00:00-La venta 72649 ha sido enviada correctamente
+21/03/2017-La venta 72649 ha sido enviada correctamente
+21/03/2017-La venta 72649 ha sido enviada correctamente
+21/03/2017-La venta 72649 ha sido enviada correctamente
+21/03/2017-La venta 72649 ha sido enviada correctamente
+21/03/2017-La venta 72650 ha sido enviada correctamente
+21/03/2017-La venta 72650 ha sido enviada correctamente
+21/03/2017-La venta 72650 ha sido enviada correctamente
+21/03/2017-La venta 72650 ha sido enviada correctamente
+21/03/2017-ERROR la venta 72647 NO ha sido enviada correctamente
+21/03/2017-La venta 72647 ha sido enviada correctamente
+21/03/2017 0:00:00-La venta 72651 ha sido enviada correctamente
+21/03/2017 0:00:00-La venta 72651 ha sido enviada correctamente
+21/03/2017-ERROR la venta 13246 NO ha sido enviada correctamente
+21/03/2017-La venta 13246 ha sido enviada correctamente
+21/03/2017-La venta 13246 ha sido enviada correctamente
+21/03/2017-La venta 13246 ha sido enviada correctamente
+21/03/2017-La venta 13246 ha sido enviada correctamente
+21/03/2017-La venta 13246 ha sido enviada correctamente
+21/03/2017-La venta 13246 ha sido enviada correctamente
+21/03/2017-La venta 13246 ha sido enviada correctamente
+21/03/2017-La venta 13246 ha sido enviada correctamente
+21/03/2017-La venta 13246 ha sido enviada correctamente
+21/03/2017 0:00:00-La venta 13247 ha sido enviada correctamente
+21/03/2017 0:00:00-La venta 13247 ha sido enviada correctamente
+06/04/2017 0:00:00-La venta 124 ha sido enviada correctamente
+13/06/2017 0:00:00-ERROR la venta 77 NO ha sido enviada correctamente
+09/06/2017-La venta 77 ha sido enviada correctamente

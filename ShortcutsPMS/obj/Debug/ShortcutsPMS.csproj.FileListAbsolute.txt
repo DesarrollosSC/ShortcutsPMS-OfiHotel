@@ -1,0 +1,85 @@
+G:\7-DESENVOLUPAMENTS\002.TESIPRO\ShortcutsPMS\ShortcutsPMS\bin\Debug\ShortcutsPMS.exe.config
+G:\7-DESENVOLUPAMENTS\002.TESIPRO\ShortcutsPMS\ShortcutsPMS\bin\Debug\ShortcutsPMS.exe
+G:\7-DESENVOLUPAMENTS\002.TESIPRO\ShortcutsPMS\ShortcutsPMS\bin\Debug\ShortcutsPMS.pdb
+G:\7-DESENVOLUPAMENTS\002.TESIPRO\ShortcutsPMS\ShortcutsPMS\obj\Debug\ShortcutsPMS.Form1.resources
+G:\7-DESENVOLUPAMENTS\002.TESIPRO\ShortcutsPMS\ShortcutsPMS\obj\Debug\ShortcutsPMS.Properties.Resources.resources
+G:\7-DESENVOLUPAMENTS\002.TESIPRO\ShortcutsPMS\ShortcutsPMS\obj\Debug\ShortcutsPMS.csproj.GenerateResource.Cache
+G:\7-DESENVOLUPAMENTS\002.TESIPRO\ShortcutsPMS\ShortcutsPMS\obj\Debug\ShortcutsPMS.exe
+G:\7-DESENVOLUPAMENTS\002.TESIPRO\ShortcutsPMS\ShortcutsPMS\obj\Debug\ShortcutsPMS.pdb
+G:\7-DESENVOLUPAMENTS\002.TESIPRO\ShortcutsPMS_v3\ShortcutsPMS\bin\Debug\ShortcutsPMS.exe.config
+G:\7-DESENVOLUPAMENTS\002.TESIPRO\ShortcutsPMS_v3\ShortcutsPMS\obj\Debug\ShortcutsPMS.exe
+G:\7-DESENVOLUPAMENTS\002.TESIPRO\ShortcutsPMS_v3\ShortcutsPMS\obj\Debug\ShortcutsPMS.pdb
+C:\Arxius Salvador\25-DESENVOLUPAMENTS C#\005.TESIPRO\ShortcutsPMS\ShortcutsPMS\bin\Debug\ShortcutsPMS.exe.config
+C:\Arxius Salvador\25-DESENVOLUPAMENTS C#\005.TESIPRO\ShortcutsPMS\ShortcutsPMS\obj\Debug\ShortcutsPMS.exe
+C:\Arxius Salvador\25-DESENVOLUPAMENTS C#\005.TESIPRO\ShortcutsPMS\ShortcutsPMS\obj\Debug\ShortcutsPMS.pdb
+C:\Arxius Salvador\25-DESENVOLUPAMENTS C#\005.TESIPRO\ShortcutsPMS\ShortcutsPMS\bin\Debug\ShortcutsPMS.exe
+C:\Arxius Salvador\25-DESENVOLUPAMENTS C#\005.TESIPRO\ShortcutsPMS\ShortcutsPMS\bin\Debug\ShortcutsPMS.pdb
+C:\Arxius Salvador\25-DESENVOLUPAMENTS C#\005.TESIPRO\ShortcutsPMS\ShortcutsPMS\obj\Debug\ShortcutsPMS.Form1.resources
+C:\Arxius Salvador\25-DESENVOLUPAMENTS C#\005.TESIPRO\ShortcutsPMS\ShortcutsPMS\obj\Debug\ShortcutsPMS.Properties.Resources.resources
+C:\Arxius Salvador\25-DESENVOLUPAMENTS C#\005.TESIPRO\ShortcutsPMS\ShortcutsPMS\obj\Debug\ShortcutsPMS.csproj.GenerateResource.Cache
+C:\Arxius Salvador\25-DESENVOLUPAMENTS C#\005.TESIPRO\ShortcutsPMS\ShortcutsPMS\obj\Debug\ShortcutsPMS.Config.resources
+G:\7-DESENVOLUPAMENTS\002.TESIPRO\ShortcutsPMS\ShortcutsPMS\obj\Debug\ShortcutsPMS.Config.resources
+G:\7-DESENVOLUPAMENTS\002.TESIPRO (ShortcutsPMS)\ShortcutsPMS\ShortcutsPMS\bin\Debug\ShortcutsPMS.exe.config
+G:\7-DESENVOLUPAMENTS\002.TESIPRO (ShortcutsPMS)\ShortcutsPMS\ShortcutsPMS\obj\Debug\ShortcutsPMS.exe
+G:\7-DESENVOLUPAMENTS\002.TESIPRO (ShortcutsPMS)\ShortcutsPMS\ShortcutsPMS\obj\Debug\ShortcutsPMS.pdb
+G:\7-DESENVOLUPAMENTS\002.TESIPRO (ShortcutsPMS)\ShortcutsPMS\ShortcutsPMS\bin\Debug\ShortcutsPMS.exe
+G:\7-DESENVOLUPAMENTS\002.TESIPRO (ShortcutsPMS)\ShortcutsPMS\ShortcutsPMS\bin\Debug\ShortcutsPMS.pdb
+G:\7-DESENVOLUPAMENTS\002.TESIPRO (ShortcutsPMS)\ShortcutsPMS\ShortcutsPMS\obj\Debug\ShortcutsPMS.csprojResolveAssemblyReference.cache
+G:\7-DESENVOLUPAMENTS\002.TESIPRO (ShortcutsPMS)\ShortcutsPMS\ShortcutsPMS\obj\Debug\ShortcutsPMS.Config.resources
+G:\7-DESENVOLUPAMENTS\002.TESIPRO (ShortcutsPMS)\ShortcutsPMS\ShortcutsPMS\obj\Debug\ShortcutsPMS.Form1.resources
+G:\7-DESENVOLUPAMENTS\002.TESIPRO (ShortcutsPMS)\ShortcutsPMS\ShortcutsPMS\obj\Debug\ShortcutsPMS.Properties.Resources.resources
+G:\7-DESENVOLUPAMENTS\002.TESIPRO (ShortcutsPMS)\ShortcutsPMS\ShortcutsPMS\obj\Debug\ShortcutsPMS.csproj.GenerateResource.Cache
+G:\7-DESENVOLUPAMENTS\002.TESIPRO (ShortcutsPMS)\ShortcutsPMS - (FINAL)\ShortcutsPMS\bin\Debug\ShortcutsPMS.exe.config
+G:\7-DESENVOLUPAMENTS\002.TESIPRO (ShortcutsPMS)\ShortcutsPMS - (FINAL)\ShortcutsPMS\obj\Debug\ShortcutsPMS.exe
+G:\7-DESENVOLUPAMENTS\002.TESIPRO (ShortcutsPMS)\ShortcutsPMS - (FINAL)\ShortcutsPMS\obj\Debug\ShortcutsPMS.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ShortcutsPMS - (FINAL)\ShortcutsPMS\bin\Debug\ShortcutsPMS.exe
+F:\Projects cASA\ShortcutsPMS - (FINAL)\ShortcutsPMS\bin\Debug\ShortcutsPMS.exe.config
+F:\Projects cASA\ShortcutsPMS - (FINAL)\ShortcutsPMS\obj\Debug\ShortcutsPMS.csproj.ResolveComReference.cache
+F:\Projects cASA\ShortcutsPMS - (FINAL)\ShortcutsPMS\obj\Debug\ShortcutsPMS.exe
+F:\Projects cASA\ShortcutsPMS - (FINAL)\ShortcutsPMS\obj\Debug\ShortcutsPMS.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ShortcutsPMS - (FINAL)\ShortcutsPMS\bin\Debug\ShortcutsPMS.exe.config
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ShortcutsPMS - (FINAL)\ShortcutsPMS\obj\Debug\Interop.IntegracionesSPA.dll
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ShortcutsPMS - (FINAL)\ShortcutsPMS\obj\Debug\ShortcutsPMS.csproj.ResolveComReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ShortcutsPMS - (FINAL)\ShortcutsPMS\obj\Debug\ShortcutsPMS.Config.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ShortcutsPMS - (FINAL)\ShortcutsPMS\obj\Debug\ShortcutsPMS.Form1.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ShortcutsPMS - (FINAL)\ShortcutsPMS\obj\Debug\ShortcutsPMS.Properties.Resources.resources
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ShortcutsPMS - (FINAL)\ShortcutsPMS\obj\Debug\ShortcutsPMS.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ShortcutsPMS - (FINAL)\ShortcutsPMS\obj\Debug\ShortcutsPMS.exe
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ShortcutsPMS - (FINAL)\ShortcutsPMS\obj\Debug\ShortcutsPMS.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ShortcutsPMS - (FINAL)\ShortcutsPMS\bin\Debug\ShortcutsPMS.pdb
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ShortcutsPMS - (FINAL)\ShortcutsPMS\obj\Debug\ShortcutsPMS.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\Visual Studio 2013\Projects\ShortcutsPMS - (FINAL)\ShortcutsPMS\obj\Debug\ShortcutsPMS.csproj.CoreCompileInputs.cache
+F:\Projects cASA\ShortcutsPMS - (FINAL)\ShortcutsPMS\bin\Debug\ShortcutsPMS.exe
+F:\Projects cASA\ShortcutsPMS - (FINAL)\ShortcutsPMS\bin\Debug\ShortcutsPMS.pdb
+F:\Projects cASA\ShortcutsPMS - (FINAL)\ShortcutsPMS\obj\Debug\ShortcutsPMS.csprojResolveAssemblyReference.cache
+F:\Projects cASA\ShortcutsPMS - (FINAL)\ShortcutsPMS\obj\Debug\Interop.IntegracionesSPA.dll
+F:\Projects cASA\ShortcutsPMS - (FINAL)\ShortcutsPMS\obj\Debug\ShortcutsPMS.Config.resources
+F:\Projects cASA\ShortcutsPMS - (FINAL)\ShortcutsPMS\obj\Debug\ShortcutsPMS.Form1.resources
+F:\Projects cASA\ShortcutsPMS - (FINAL)\ShortcutsPMS\obj\Debug\ShortcutsPMS.Properties.Resources.resources
+F:\Projects cASA\ShortcutsPMS - (FINAL)\ShortcutsPMS\obj\Debug\ShortcutsPMS.csproj.GenerateResource.Cache
+F:\Projects cASA\ShortcutsPMS - (FINAL)\ShortcutsPMS\obj\Debug\ShortcutsPMS.csproj.CoreCompileInputs.cache
+G:\7-DESENVOLUPAMENTS\012 ShortcutsPMS (Ofihotel)\ShortcutsPMS - (AkelaRRE)\ShortcutsPMS\bin\Debug\ShortcutsPMS.exe.config
+G:\7-DESENVOLUPAMENTS\012 ShortcutsPMS (Ofihotel)\ShortcutsPMS - (AkelaRRE)\ShortcutsPMS\obj\Debug\ShortcutsPMS.csproj.ResolveComReference.cache
+G:\7-DESENVOLUPAMENTS\012 ShortcutsPMS (Ofihotel)\ShortcutsPMS - (AkelaRRE)\ShortcutsPMS\obj\Debug\ShortcutsPMS.exe
+G:\7-DESENVOLUPAMENTS\012 ShortcutsPMS (Ofihotel)\ShortcutsPMS - (AkelaRRE)\ShortcutsPMS\obj\Debug\ShortcutsPMS.pdb
+G:\7-DESENVOLUPAMENTS\012 ShortcutsPMS (Ofihotel)\ShortcutsPMS - (AkelaRRE)\ShortcutsPMS\obj\Debug\ShortcutsPMS.csprojResolveAssemblyReference.cache
+G:\7-DESENVOLUPAMENTS\012 ShortcutsPMS (Ofihotel)\ShortcutsPMS - (AkelaRRE)\ShortcutsPMS\obj\Debug\ShortcutsPMS.Config.resources
+G:\7-DESENVOLUPAMENTS\012 ShortcutsPMS (Ofihotel)\ShortcutsPMS - (AkelaRRE)\ShortcutsPMS\obj\Debug\ShortcutsPMS.Form1.resources
+G:\7-DESENVOLUPAMENTS\012 ShortcutsPMS (Ofihotel)\ShortcutsPMS - (AkelaRRE)\ShortcutsPMS\obj\Debug\ShortcutsPMS.Properties.Resources.resources
+G:\7-DESENVOLUPAMENTS\012 ShortcutsPMS (Ofihotel)\ShortcutsPMS - (AkelaRRE)\ShortcutsPMS\obj\Debug\ShortcutsPMS.csproj.GenerateResource.Cache
+C:\Users\virtual\Desktop\ShortcutsPMS - (AkelaRRE)\ShortcutsPMS\bin\Debug\ShortcutsPMS.exe.config
+C:\Users\virtual\Desktop\ShortcutsPMS - (AkelaRRE)\ShortcutsPMS\obj\Debug\Interop.IntegracionesSPA.dll
+C:\Users\virtual\Desktop\ShortcutsPMS - (AkelaRRE)\ShortcutsPMS\obj\Debug\ShortcutsPMS.csproj.ResolveComReference.cache
+C:\Users\virtual\Desktop\ShortcutsPMS - (AkelaRRE)\ShortcutsPMS\bin\Debug\ShortcutsPMS.exe
+C:\Users\virtual\Desktop\ShortcutsPMS - (AkelaRRE)\ShortcutsPMS\bin\Debug\ShortcutsPMS.pdb
+C:\Users\virtual\Desktop\ShortcutsPMS - (AkelaRRE)\ShortcutsPMS\obj\Debug\ShortcutsPMS.csprojResolveAssemblyReference.cache
+C:\Users\virtual\Desktop\ShortcutsPMS - (AkelaRRE)\ShortcutsPMS\obj\Debug\ShortcutsPMS.Config.resources
+C:\Users\virtual\Desktop\ShortcutsPMS - (AkelaRRE)\ShortcutsPMS\obj\Debug\ShortcutsPMS.Form1.resources
+C:\Users\virtual\Desktop\ShortcutsPMS - (AkelaRRE)\ShortcutsPMS\obj\Debug\ShortcutsPMS.Properties.Resources.resources
+C:\Users\virtual\Desktop\ShortcutsPMS - (AkelaRRE)\ShortcutsPMS\obj\Debug\ShortcutsPMS.csproj.GenerateResource.Cache
+C:\Users\virtual\Desktop\ShortcutsPMS - (AkelaRRE)\ShortcutsPMS\obj\Debug\ShortcutsPMS.exe
+C:\Users\virtual\Desktop\ShortcutsPMS - (AkelaRRE)\ShortcutsPMS\obj\Debug\ShortcutsPMS.pdb
+G:\1-PROJECTES GIT HUB\ShortcutsPMS-OfiHotel\ShortcutsPMS\bin\Debug\ShortcutsPMS.exe.config
+G:\1-PROJECTES GIT HUB\ShortcutsPMS-OfiHotel\ShortcutsPMS\obj\Debug\ShortcutsPMS.csproj.ResolveComReference.cache
+G:\1-PROJECTES GIT HUB\ShortcutsPMS-OfiHotel\ShortcutsPMS\obj\Debug\ShortcutsPMS.exe
+G:\1-PROJECTES GIT HUB\ShortcutsPMS-OfiHotel\ShortcutsPMS\obj\Debug\ShortcutsPMS.pdb
